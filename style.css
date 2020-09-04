@@ -1,0 +1,48 @@
+header{
+  padding: 10px;
+  color: #aaa;
+  background: #3C3838;
+
+}
+
+  .buttons{
+    margin-top: 20px;
+    background: grey;
+  }
+
+  .customDiv{
+    background: #aaa;
+    padding: 10px;
+    height: 300px;
+  }
+
+  .main{
+    padding: 30px 0;
+  }
+  .head1{
+    font-style: italic;
+  }
+
+  .read-more, .read-more:hover{
+  color: #D47F00;
+  float: right;
+  }
+
+  section{
+    padding: 10px 0;
+  }
+
+  .float-left{
+    padding: 5px 10px;
+  }
+
+.template{
+  text-align: right;
+}
+footer{
+  color: #aaa;
+  background: #3C3838;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
